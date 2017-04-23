@@ -8,7 +8,7 @@ ul{
 li a{
 	text-decoration:none;
 	color: white;
-	font-size: 18px;
+	font-size: 27px;
 	display: inline-block;
 	padding: 30px;
 	text-align: center;
@@ -40,4 +40,24 @@ border-radius: 50%;
 }
 .New{
 border-radius: 50%;
+}
+.twitter {
+font-size: 30px;
+text-decoration: none;
+}
+.linkedin{
+font-size: 30px;
+text-decoration: none;
+}
+.funhaus{
+font-size: 30px;
+text-decoration: none;
+}
+.sbfp{
+font-size: 30px;
+text-decoration: none;
+}
+.critikal{
+font-size: 30px;
+text-decoration: none;
 }
